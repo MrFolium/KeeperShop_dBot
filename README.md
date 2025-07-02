@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/KeeperShop_dBot.git
 # /Запуск
 
 # Windows:
-scripts/start.bat
+switch to Linux) я не смог написать скрипт для винды нормально
 
 # Linux:
 scripts/start.sh
